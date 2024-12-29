@@ -1,0 +1,13 @@
+.card{
+    width: 300px;
+    margin: 15px;
+    color: black;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.card .deleteButton{
+    position: relative;
+    top: -200px;
+    left: 150px;
+    cursor: pointer;
+}
